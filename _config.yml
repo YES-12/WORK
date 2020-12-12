@@ -19,7 +19,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://fsb.zobj.net/crop.php?r=e9wUbuA4gtFtr46UA2PE5GMcriRP4IPSzPTWOBs82VJEK_zIJcyRW5kh6JE_GrxfEmFki6gil-dD-LL5eMpMNcj5Sjw4u4Y6MwkMhR-1WlgJ50l6FRXVLRylR_2lbwvcMeLEOIUkEzNPODPaAqMfI4ClDs3vu9s3Z2s8bF55uCt0KPXzxye5ueQyfDyFFgfks2aGkOwr7pURMvK_"
+avatar: "https://wallpapercave.com/wp/b8ahwKP.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -95,11 +95,11 @@ navbar-text-col: "#ffffff"
 navbar-border-col: "#2C2F33"
 page-col: "#ffffff"
 text-col: "#000000"
-link-col: "#99AAB5"
+link-col: "#0098fa"
 hover-col: "#07f03d"
 footer-col: "#000000"
 footer-text-col: "#DDDDDD"
-footer-link-col: "#99AAB5"
+footer-link-col: "#ed0c0c"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
