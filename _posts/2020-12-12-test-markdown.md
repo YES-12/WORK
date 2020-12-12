@@ -3,7 +3,7 @@ layout: post
 title: First Post EVER
 subtitle: The very first post of this blog
 gh-repo: ORATED-WIKI/WORK
-tage: [test]
+tags: [test]
 comments: true
 ---
 
