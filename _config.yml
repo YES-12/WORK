@@ -6,24 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: Team Blog
+title: ORATED-WIKI Blog
 
 # Your name to show in the footer
-author: Catvibers Team
+author: YES-12
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Catvibers Links:
-    - Homepage: "https://catvibers.github.io/"
-    - About Us: "https://catvibers.github.io/pages/about/"
-    - Visitor Count: "https://catvibers.github.io/pages/hits/"
-
+ - Homepage: "https://orated-wiki.github.io/"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://catvibers.github.io/assets/cat_1.jpeg"
+avatar: "https://lh3.googleusercontent.com/proxy/i8t2f7dUFgLvkD9HaffUpgZR1Efwhh2oPrPWcHD2WGLXDjjARSie1bSbnVUXp4_gQyThmfIDWCnFzwfuQQ0R9CQrAwzlC3s"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -38,9 +34,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-   email: "dankgoogly@gmail.com"
+   email: "quincy.sy@yahoo.com"
 #  facebook: 
-   github: Catvibers
+   github: ORATED-WIKI
 #  twitter: 
 #  patreon: 
 #  youtube: 
@@ -69,14 +65,14 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
+  twitter: true
+  facebook: true
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "catvibers.tk"
+url-pretty: "orated-wiki.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -88,16 +84,16 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "catviber,catvibers"
+keywords: "YES-12,ORATED"
 
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#23272A"
-navbar-text-col: "#FFFFFF"
+navbar-text-col: "#000000"
 navbar-border-col: "#2C2F33"
-page-col: "#2C2F33"
+page-col: "#ffffff"
 text-col: "#DDDDDD"
 link-col: "#99AAB5"
 hover-col: "#7289DA"
@@ -155,7 +151,7 @@ footer-link-col: "#99AAB5"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 utterances:
-  repository: catvibers/blog
+  repository: ORATED-WIKI/BLOG
   issue-term: title # Mapping between blog posts and GitHub issues
   theme: github-dark # Utterances theme
   label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
