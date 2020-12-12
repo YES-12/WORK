@@ -153,7 +153,7 @@ footer-link-col: "#ed0c0c"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 utterances:
-  repository: orated-wiki/blog
+  repository: ORATED-WIKI/WORK
   issue-term: title # Mapping between blog posts and GitHub issues
   theme: github-dark # Utterances theme
   label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
