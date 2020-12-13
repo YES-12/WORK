@@ -7,7 +7,7 @@ thumbnail-img: https://i.pinimg.com/originals/bb/61/8d/bb618db7d825e2e03c8d86f78
 share-img: https://images-na.ssl-images-amazon.com/images/I/71IHB9-yapL.png
 gh-repo: ORATED-WIKI/WORK
 tags: [test]
-comments: false
+comments: true
 ---
 
 # Hi THIS IS ANOTHER TEST RUN.
