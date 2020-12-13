@@ -3,6 +3,7 @@ layout: post
 title: Second Post EVER
 subtitle: This is another test.
 cover-img: https://wallpaperaccess.com/full/1313700.jpg
+thumbnail-img: https://i.pinimg.com/originals/bb/61/8d/bb618db7d825e2e03c8d86f781a65e06.jpg
 gh-repo: ORATED-WIKI/WORK
 tags: [test]
 comments: false
