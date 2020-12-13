@@ -10,5 +10,5 @@ comments: false
 ---
 
 # Hi THIS IS ANOTHER TEST RUN.
-This is the seconde (test) post of the blog. This is to show that the posts works and that I have succeeded
+This is the second (test) post of the blog. This is to show that the posts works and that I have succeeded
 
