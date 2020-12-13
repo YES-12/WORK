@@ -93,15 +93,15 @@ keywords: "YES-12,ORATED"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#23272A"
-navbar-text-col: "#ffffff"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#2C2F33"
-page-col: "#ffffff"
-text-col: "#000000"
-link-col: "#0098fa"
+page-col: "#2C2F33"
+text-col: "#DDDDDD"
+link-col: "#99AAB5"
 hover-col: "#07f03d"
 footer-col: "#000000"
 footer-text-col: "#DDDDDD"
-footer-link-col: "#ed0c0c"
+footer-link-col: "#99AAB5"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
