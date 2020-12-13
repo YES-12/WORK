@@ -4,7 +4,7 @@ title: First Post EVER
 subtitle: The very first post of this blog
 cover-img: https://labs.jensimmons.com/2016/examples/images/testscreen-large.jpg
 thumbnail-img: https://fedoramagazine.org/wp-content/uploads/2015/03/test-days-945x400.png
-gh-repo: ORATED-WIKI/WORK
+gh-repo: YES-12/WORK
 tags: [test]
 comments: false
 ---
