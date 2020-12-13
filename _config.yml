@@ -4,7 +4,7 @@
 # the initial set up you won't need to come back to this file often.
 # --- Required options --- #
 # Name of website
-title: ORATED-WIKI Blog
+title: YES-12 Blog
 # Your name to show in the footer
 author: YES-12
 # --- List of links in the navigation bar --- #
@@ -14,8 +14,8 @@ navbar-links:
     - Discord: "https://discord.com/"
     - Facebook: "https://www.facebook.com/"
     - Twitter: "https://twitter.com/?lang=en"
-  ORATED-WIKI Links:
-    - Homepage: "https://orated-wiki.github.io/"
+  YES-12 Links:
+    - Homepage: "https://yes-12.github.io/"
     - Join this Discord: "https://discord.com/channels/761674070164111480/761680750549794838" 
 # --- Logo --- #
 # Image to show in the navigation bar - works best with a square image
@@ -32,7 +32,7 @@ round-avatar: true
 social-network-links:
    email: "quincy.sy@yahoo.com"
 #  facebook: 
-   github: ORATED-WIKI
+   github: YES-12
 #  twitter: 
 #  patreon: 
 #  youtube: 
@@ -65,7 +65,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "orated-wiki.github.io"
+url-pretty: "yes-12.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -74,7 +74,7 @@ feed_show_excerpt: true
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
 # The keywords to associate with your website, for SEO purposes
-keywords: "YES-12,ORATED"
+keywords: "YES-12,Blog"
 # --- Colours / background image --- #
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 navbar-col: "#03d3fc"
@@ -124,7 +124,7 @@ footer-link-col: "#99AAB5"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 utterances:
-  repository: ORATED-WIKI/WORK
+  repository: YES-12/WORK
   issue-term: title # Mapping between blog posts and GitHub issues
   theme: github-dark-orange # Utterances theme
   label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
