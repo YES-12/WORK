@@ -4,6 +4,7 @@ title: Second Post EVER
 subtitle: This is another test.
 cover-img: https://wallpaperaccess.com/full/1313700.jpg
 thumbnail-img: https://i.pinimg.com/originals/bb/61/8d/bb618db7d825e2e03c8d86f781a65e06.jpg
+share-img: https://images-na.ssl-images-amazon.com/images/I/71IHB9-yapL.png
 gh-repo: YES-12/WORK
 tags: [test]
 comments: false
