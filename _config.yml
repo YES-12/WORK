@@ -12,6 +12,8 @@ navbar-links:
   ORATED-WIKI Links:
     - Homepage: "https://orated-wiki.github.io/"
     - Join this Discord: "https://discord.com/channels/761674070164111480/761680750549794838" 
+    Other Links:
+    - Youtube: "https://www.youtube.com/"
 # --- Logo --- #
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
