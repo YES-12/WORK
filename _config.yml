@@ -9,6 +9,8 @@ title: ORATED-WIKI Blog
 author: YES-12
 # --- List of links in the navigation bar --- #
 navbar-links:
+  Other Links:
+    - Youtube: "https://www.youtube.com/"
   ORATED-WIKI Links:
     - Homepage: "https://orated-wiki.github.io/"
     - Join this Discord: "https://discord.com/channels/761674070164111480/761680750549794838" 
