@@ -91,7 +91,7 @@ keywords: "YES-12,ORATED"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#23272A"
+navbar-col: "#03d3fc"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#2C2F33"
 page-col: "#ffffff"
