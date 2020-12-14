@@ -133,6 +133,10 @@
   {% if img != "" %}
   <meta name="twitter:image" content="{{ img | absolute_url }}">
   {% endif %}
+  
+  {% include cookieconsent.html %}
+  
+
 
   {% include matomo.html %}
 
