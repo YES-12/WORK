@@ -2,7 +2,7 @@
 layout: post
 title: First Post EVER
 subtitle: The very first post of this blog
-cover-img: https://i.pinimg.com/originals/b8/8e/59/b88e5919775afd0de88efa8ebcaf1250.png
+cover-img: https://wallpaperaccess.com/full/1247176.jpg
 thumbnail-img: https://fedoramagazine.org/wp-content/uploads/2015/03/test-days-945x400.png
 readtime: true
 gh-repo: YES-12/WORK
