@@ -5,6 +5,7 @@ subtitle: This is another test.
 cover-img: https://wallpaperaccess.com/full/1313700.jpg
 thumbnail-img: https://i.pinimg.com/originals/bb/61/8d/bb618db7d825e2e03c8d86f781a65e06.jpg
 share-img: https://wallpaperaccess.com/full/167408.jpg
+readtime: true
 gh-repo: YES-12/WORK
 last-updated: 2020-12-14
 tags: [test]
