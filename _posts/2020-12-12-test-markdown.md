@@ -2,7 +2,7 @@
 layout: post
 title: First Post EVER
 subtitle: The very first post of this blog
-cover-img: https://labs.jensimmons.com/2016/examples/images/testscreen-large.jpg
+cover-img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR75b6vv6ei83CMyHlEJXURlvCHTTQYGuQ5aQ&usqp=CAU
 thumbnail-img: https://fedoramagazine.org/wp-content/uploads/2015/03/test-days-945x400.png
 readtime: true
 gh-repo: YES-12/WORK
