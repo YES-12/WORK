@@ -7,7 +7,7 @@ thumbnail-img: https://fedoramagazine.org/wp-content/uploads/2015/03/test-days-9
 readtime: true
 gh-repo: YES-12/WORK
 tags: [test]
-comments: false
+comments: true
 ---
 
 # Hi THIS IS A TEST RUN.
