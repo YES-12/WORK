@@ -8,7 +8,7 @@ share-img: https://wallpaperaccess.com/full/167408.jpg
 gh-repo: YES-12/WORK
 readtime: true
 tags: [test]
-comments: false
+comments: true
 ---
 
 # LOREM IPSUM
