@@ -17,7 +17,13 @@ navbar-links:
   YES-12 Links:
     - Homepage: "https://yes-12.github.io/"
     - Join this Discord: "https://discord.com/channels/761674070164111480/761680750549794838" 
-# --- Logo --- #
+
+# --- Google custom search config --- #
+# search page name search -> /seach.md
+nav-search: "search"
+# google-site-verification
+#google-site-verification: ''
+
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 avatar: "https://wallpaperaccess.com/full/869967.jpg"
