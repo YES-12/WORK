@@ -92,7 +92,7 @@ footer-link-col: "#99AAB5"
 # instead of colour
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
- page-img: "blob:chrome-untrusted://media-app/673470b8-39ef-4d37-8fd7-b59a736fd0c7"
+ page-img: blob:chrome-untrusted://media-app/673470b8-39ef-4d37-8fd7-b59a736fd0c7
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 # mobile-theme-col: "#2C2F33"
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
