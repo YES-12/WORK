@@ -9,6 +9,7 @@ title: YES-12 Blog
 author: YES-12
 # --- List of links in the navigation bar --- #
 navbar-links:
+  Subscribe: "subscribe"
   About Me: "aboutme"
   Subscribe: "https://yes-12.github.io/Subscribe/"
   Other Links:
