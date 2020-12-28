@@ -8,8 +8,8 @@ title: YES-12 Blog
 # Your name to show in the footer
 author: YES-12
 # --- List of links in the navigation bar --- #
-Subscribe: "subscribe"
 navbar-links:
+  - Subscribe: "https://yes-12.github.io/Subscribe/"
   Other Links:
     - Youtube: "https://www.youtube.com/"
     - Discord: "https://discord.com/"
