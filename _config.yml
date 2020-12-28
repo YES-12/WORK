@@ -9,6 +9,7 @@ title: YES-12 Blog
 author: YES-12
 # --- List of links in the navigation bar --- #
 navbar-links:
+  Search: "search"
   Subscribe: "subscribe"
   About Me: "aboutme"
   Other Links:
