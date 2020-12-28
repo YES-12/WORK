@@ -3,7 +3,7 @@ layout: post
 title: First Post
 subtitle: The very first post of this blog
 gh-repo: Catvibers/blog
-comments: false
+comments: true
 ---
 
 # Yo.
