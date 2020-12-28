@@ -12,11 +12,6 @@ navbar-links:
   Search: "search"
   Subscribe: "subscribe"
   About Me: "aboutme"
-  Other Links:
-    - Youtube: "https://www.youtube.com/"
-    - Discord: "https://discord.com/"
-    - Facebook: "https://www.facebook.com/"
-    - Twitter: "https://twitter.com/?lang=en"
   YES-12 Links:
     - Homepage: "https://yes-12.github.io/"
     - Join this Discord: "https://discord.com/channels/761674070164111480/761680750549794838"
