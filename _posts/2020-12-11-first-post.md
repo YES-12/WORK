@@ -2,7 +2,7 @@
 layout: post
 title: First Post
 subtitle: The very first post of this blog
-gh-repo: Catvibers/blog
+gh-repo: YES-12/Blog
 comments: true
 ---
 
